@@ -9,7 +9,7 @@ The first one (HEADER)  contains essential information referring to the repair o
 Finally, the last one diplay whether or not  the SOGGE, which is the client adress, has been retrieved thanks to a certain join condition.
 All in all, throughout retrieve a huge amount of information linked to the clients, the team was able to run a machine learning model to predict the customer profile as well to allow the development of further analysis related to the product future demand
 
-(For further details read slide 1 to 9 of the projectTHESIS.PDF which might provide you a clearer overview of the task)
+(For further details read slide 1 to 9 of the projectTHESIS.pdf which might provide you a clearer overview of the task)
 
 
 -FILES INSIDE THE FOLDER:
